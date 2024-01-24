@@ -1,6 +1,6 @@
 Resolusi Belajar
-- Belajar HTML & CSS
 - Belajar Java Script
 - Belajar PHP
 - Belajar Databases
 - Belajar Framework
+- Belajar mobile App
